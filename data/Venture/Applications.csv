@@ -1,0 +1,13 @@
+﻿~id,type:String,~label
+app1,Domain,Application
+app2,Domain,Application
+app3,Domain,Application
+app4,Hosting,Application
+app5,Hosting,Application
+app6,SSL,Application
+app7,Email,Application
+app8,Email,Application
+app9,Hosting,Application
+app10,Domain,Application
+app11,Domain,Application
+app12,SmartLine,Application
